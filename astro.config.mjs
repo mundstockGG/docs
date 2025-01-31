@@ -16,7 +16,7 @@ export default defineConfig({
 				es: {
 					label: 'Español',
 				}
-			  },
+			},
 			title: 'My Docs',
 			social: {
 				github: 'https://github.com/withastro/starlight',
@@ -25,29 +25,35 @@ export default defineConfig({
 				{
 					label: 'Introducción',
 					items: [
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Explicación del Concepto del Servidor', slug: 'guias/concepto' },
 					],
 				},
 				{
 					label: 'Cómo Unirse y Soporte',
 					items: [
-						{ label: 'Guía de Primeros Pasos', slug: 'guia/primeros-pasos' },
-						{ label: 'Normas para Nuevos Jugadores', slug: 'guia/normas' },
-						{ label: 'Contacto con Administradores y Moderadores', slug: 'guia/contacto' },
+						{ label: 'Guía de Primeros Pasos', slug: 'soporte/primeros-pasos' },
+						{ label: 'Normas para Nuevos Jugadores', slug: 'soporte/normas' },
+						{ label: 'Contacto con Administradores y Moderadores', slug: 'soporte/contacto' },
 					],
 				},
 				{
 					label: 'Lore del Servidor',
 					items: [
-						{ label: 'El Brote: Origen del Virus', slug: 'lore/brote' },
-						{ label: 'La Caída de la Civilización', slug: 'lore/civilizacion' },
 						{ label: 'Línea de Tiempo del Apocalipsis', slug: 'lore/tiempo', },
+						{ label: 'El Brote: Origen del Virus', slug: 'lore/brote' },
+						{ label: 'Humane Labs & Merryweather ', slug: 'lore/humane-merry' },
+						{ label: 'El Secreto de las Fuerzas Militares  ', slug: 'lore/militares' },
+						{ label: 'Estado Actual del Mundo   ', slug: 'lore/mundo' },
 					],
 				},
 				{
 					label: 'Mecánicas del Juego',
 					items: [
-						{ label: 'Mecánicas del Juego', slug: 'guides/mecanicas-juego' },
+						{ label: 'Supervivencia y Estados del Personaje ', slug: 'mecanicas/supervivencia' },
+						{ label: 'Proceso de Infección y Desinfección ', slug: 'mecanicas/infeccion' },
+						{ label: 'Condiciones del Entorno  ', slug: 'mecanicas/entorno' },
+						{ label: 'Caza & Pesca', slug: 'mecanicas/caza-pesca' },
+						{ label: 'Zonas de Peligro', slug: 'mecanicas/zonas' },
 					],
 				},
 				{
