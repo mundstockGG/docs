@@ -24,7 +24,8 @@ Para poder fabricar cualquier objeto, los jugadores deberán cumplir con ciertos
 ## **Tipos de Crafteo**
 El sistema de crafteo se divide en varias categorías, cada una con su propia mecánica y materiales necesarios:
 
-- **Crafteo de Armas:** Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
+## **Crafteo de Armas** 
+Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   
   ### Meele
   ---
@@ -75,15 +76,15 @@ El sistema de crafteo se divide en varias categorías, cada una con su propia me
   
   ### Throwables
   ---
-    | Nombre       | Descripción                              | Nivel de Daño |
-    | ------------ | ---------------------------------------- | ------------- |
-    | Hand Grenade | Granada explosiva estándar.              | Alta          |
-    | C4           | Bomba pegable, explotala cuando desees.  | Alta          |
-    | Pipe Bomb    | Explosivo con cuenta regresiva.          | Alta          |
-    | BZ Gas       | Gas venenoso letal.                      | Media         |
-    | Molotov      | Coctel molotov incendiario.              | Media         |
-    | Tear Gas     | Gas lacrimógeno para dispersar enemigos. | Media         |
-    | Flare        | Bengala para señalización.               | Nula          |
+  | Nombre       | Descripción                              | Nivel de Daño |
+  | ------------ | ---------------------------------------- | ------------- |
+  | Hand Grenade | Granada explosiva estándar.              | Alta          |
+  | C4           | Bomba pegable, explotala cuando desees.  | Alta          |
+  | Pipe Bomb    | Explosivo con cuenta regresiva.          | Alta          |
+  | BZ Gas       | Gas venenoso letal.                      | Media         |
+  | Molotov      | Coctel molotov incendiario.              | Media         |
+  | Tear Gas     | Gas lacrimógeno para dispersar enemigos. | Media         |
+  | Flare        | Bengala para señalización.               | Nula          |
 
 - **Crafteo de Herramientas:** Fabricación de hachas, picos, sierras y otros implementos esenciales.
 - **Crafteo de Ropa y Armaduras:** Confección de vestimenta resistente y blindaje improvisado.
