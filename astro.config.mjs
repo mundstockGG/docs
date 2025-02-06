@@ -57,27 +57,27 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Mecánicas de Roleplay',
-					items: [
-						{ label: 'Mecánicas de Roleplay', slug: 'guides/mecanicas-roleplay' },
-					],
-				},
-				{
 					label: 'Economía & Sistema de Loot',
 					items: [
-						{ label: 'Economía & Sistema de Loot', slug: 'guides/economia' },
+						{ label: 'Sistema de Monedas', slug: 'economia/monedas' },
+						{ label: 'Comerciante Nómada', slug: 'economia/comerciante' },
+						{ label: 'Obtención de Suministros y Comercio', slug: 'economia/suministros' },
+						{ label: 'Saqueo de Edificios y Exploración', slug: 'economia/saqueo' },
+						{ label: 'Refinerías, Combustible y Transporte', slug: 'economia/refineria' },
+						{ label: 'Intercambio y Comercio', slug: 'economia/intercambio' }
 					],
 				},
 				{
 					label: 'Vehículos & Transporte',
 					items: [
-						{ label: 'Vehículos & Transporte', slug: 'guides/vehiculos' },
+						{ label: 'Vehículos & Transporte', slug: 'transporte/creacion' },
+						{ label: 'Tipos de Vehículos', slug: 'transporte/tipos-vehiculos' },
 					],
 				},
 				{
 					label: 'Crafteo & Construcción de Bases',
 					items: [
-						{ label: 'Crafteo & Construcción de Bases', slug: 'guides/crafteo' },
+						{ label: 'Crafteo & Construcción de Bases', slug: 'crafteo/mecanica' },
 					],
 				},
 				{
