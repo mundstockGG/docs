@@ -1,6 +1,6 @@
 ---
-title: "Humane Labs & Merryweather"
-description: A guide in my new Starlight docs site.
+title: Humane Labs & Merryweather
+description: Detalle de las actividades militares y experimentos secretos relacionados con el brote.
 ---
 
 La caída del mundo no solo estuvo marcada por el brote del **Necrostrain Z**, sino también por secretos aún más oscuros. Mientras la humanidad intentaba comprender la infección y la devastación, las fuerzas militares se aferraban a un plan aún más aterrador: la experimentación con vida extraterrestre.

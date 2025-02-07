@@ -1,6 +1,6 @@
 ---
 title: Refinerías, Combustible y Transporte
-description: A guide in my new Starlight docs site.
+description: Guía sobre cómo obtener y usar combustible en un mundo post-apocalíptico.
 ---
 
 El combustible es uno de los recursos más escasos y valiosos en el mundo post-apocalíptico. Sin una red de distribución activa, las refinerías abandonadas se han convertido en puntos estratégicos que muchos buscan controlar. Tener acceso a combustible puede marcar la diferencia entre la supervivencia y la muerte, permitiendo el movimiento rápido y la generación de energía para bases y asentamientos.

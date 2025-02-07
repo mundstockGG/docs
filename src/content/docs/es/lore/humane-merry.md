@@ -1,6 +1,6 @@
 ---
-title: "Humane Labs & Merryweather"
-description: A guide in my new Starlight docs site.
+title: Humane Labs & Merryweather
+description: Detalle de las actividades de Humane Labs y Merryweather antes y después del brote.
 ---
 
 En las sombras del colapso global, dos nombres resuenan con fuerza entre los supervivientes y conspiradores: **Humane Labs & Research** y **Merryweather Security**. Estas dos entidades fueron el núcleo del desastre, las responsables de los experimentos que desencadenaron la infección y, posiblemente, las únicas con los conocimientos suficientes para revertir o controlar lo que han desatado.

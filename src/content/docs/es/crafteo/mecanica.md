@@ -1,13 +1,11 @@
 ---
 title: Mecánicas de Crafteo
-description: A guide in my new Starlight docs site.
+description: Guía sobre cómo fabricar y mejorar herramientas, armas y equipo en un entorno post-apocalíptico.
 ---
 
-# Mecánica de Crafteo
+La habilidad de crear y reparar herramientas, armas y equipo se convierte en una ventaja crucial en este nuevo mundo. **El crafteo permite a los jugadores transformar materiales básicos en objetos útiles, mejorando sus posibilidades de supervivencia y adaptabilidad.**
 
-En un mundo post-apocalíptico donde los recursos son limitados y las fábricas han dejado de operar, la capacidad de fabricar y reparar herramientas, armas y ropa se ha vuelto fundamental para la supervivencia. **El crafteo permite a los jugadores ensamblar objetos con materiales recolectados, mejorar su equipo y adaptarse a los desafíos del entorno.**
-
-El sistema de crafteo abarca múltiples aspectos, desde la creación de armas improvisadas hasta la confección de ropa resistente y la fabricación de herramientas esenciales para la exploración y la defensa. Todo esto se realiza a través de un sistema de recolección de materiales, bancos de trabajo y habilidades adquiridas por los jugadores.
+El sistema de crafteo incluye desde la fabricación de armas improvisadas hasta la confección de ropa resistente y la fabricación de herramientas esenciales para la exploración y la defensa. Todo esto se realiza a través de un sistema de recolección de materiales, bancos de trabajo y habilidades adquiridas por los jugadores.
 
 ---
 
@@ -27,7 +25,7 @@ El sistema de crafteo se divide en varias categorías, cada una con su propia me
 ## **Crafteo de Armas** 
 Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   
-  ### Meele
+  ##### Meele
   ---
   | Nombre           | Descripción                                    | Nivel de Daño |
   | ---------------- | ---------------------------------------------- | ------------- |
@@ -41,7 +39,7 @@ Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   | Hammer           | Un martillo sólido de construcción.            | Media         |
   | Brick            | Un ladrillo sólido usado como arma arrojadiza. | Baja          |
 
-  ### Handguns
+  ##### Handguns
   ---
   | Nombre             | Descripción                       | Nivel de Daño |
   | ------------------ | --------------------------------- | ------------- |
@@ -49,7 +47,7 @@ Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   | Pistola de Combate | Pistola de alto rendimiento.      | Media         |
   | Pistola WM 29      | Pistola compacta con buen manejo. | Media         |
 
-  ### Submachine Guns
+  ##### Submachine Guns
   ---
   | Nombre       | Descripción                           | Nivel de Daño |
   | ------------ | ------------------------------------- | ------------- |
@@ -57,7 +55,7 @@ Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   | SMG          | Subfusil pequeño y rápido.            | Media         |
   | Tactical SMG | Subfusil táctico con mayor precisión. | Alta          |
   
-  ### Shotguns
+  ##### Shotguns
   ---
   | Nombre       | Descripción                                 | Nivel de Daño |
   | ------------ | ------------------------------------------- | ------------- |
@@ -65,7 +63,7 @@ Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   | SMG          | Escopeta de corredera estándar.             | Alta          |
   | Tactical SMG | Escopeta automática para combate.           | Muy Alta      |
   
-  ### Rifles
+  ##### Rifles
   ---
   | Nombre         | Descripción                             | Nivel de Daño       |
   | -------------- | --------------------------------------- | ------------------- |
@@ -74,7 +72,7 @@ Creación de armas cuerpo a cuerpo, arcos, ballestas y explosivos improvisados.
   | Sniper Rifle   | Fusil de francotirador estándar.        | Muy Alta            |
   | Heavy Sniper   | Fusil de francotirador de gran calibre. | Extremadamente Alta |
   
-  ### Throwables
+  ##### Throwables
   ---
   | Nombre       | Descripción                              | Nivel de Daño |
   | ------------ | ---------------------------------------- | ------------- |

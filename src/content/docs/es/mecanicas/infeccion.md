@@ -1,9 +1,9 @@
 ---
-title: "Proceso de Infección y Desinfección "
-description: A guide in my new Starlight docs site.
+title: Proceso de Infección y Desinfección
+description: Conoce cómo prevenir y tratar la infección para mantenerte a salvo.
 ---
 
-En un mundo devastado por el **Necrostrain Z**, la infección es una amenaza constante. No solo es transmitida por los infectados, sino también por el consumo de alimentos contaminados, heridas abiertas y la exposición prolongada a áreas infectadas. El conocimiento y la correcta aplicación de métodos de desinfección son clave para la supervivencia.
+La infección por **Necrostrain Z** es una amenaza constante en el condado. No solo se transmite por los infectados, sino también por alimentos contaminados, heridas abiertas y la exposición prolongada a áreas infectadas. Conocer y aplicar correctamente los métodos de desinfección es clave para la supervivencia.
 
 ---
 

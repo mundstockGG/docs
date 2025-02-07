@@ -1,9 +1,9 @@
 ---
 title: Línea de Tiempo del Apocalipsis
-description: A guide in my new Starlight docs site.
+description: Detalle de los eventos que llevaron al colapso de la civilización y al apocalipsis.
 ---
 
-El mundo no colapsó de la noche a la mañana. Fue un proceso gradual, una serie de eventos encadenados que desembocaron en el caos absoluto. A continuación, se presenta una línea de tiempo detallada de los sucesos que llevaron al apocalipsis, basada en los eventos de nuestro servidor.
+El mundo no colapsó de la noche a la mañana. Fue un proceso gradual, una serie de eventos encadenados que desembocaron en el caos absoluto. Esta línea de tiempo detalla los sucesos que llevaron al apocalipsis, basados en los eventos de nuestro servidor.
 
 ---
 

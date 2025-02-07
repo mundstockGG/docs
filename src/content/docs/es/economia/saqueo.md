@@ -1,9 +1,9 @@
 ---
 title: Saqueo de Edificios y Exploración
-description: A guide in my new Starlight docs site.
+description: Guía sobre cómo saquear edificios y explorar en un mundo post-apocalíptico.
 ---
 
-En un mundo post-apocalíptico donde los recursos son escasos y la supervivencia depende de la habilidad para encontrar provisiones, el saqueo y la exploración se han convertido en actividades esenciales. Sin embargo, estas acciones conllevan riesgos importantes, desde enfrentamientos con infectados hasta encuentros con otros supervivientes hostiles.
+Explorar y saquear edificios es vital para encontrar recursos en un mundo donde la supervivencia es incierta. Este documento ofrece estrategias y consejos para maximizar las recompensas y minimizar los riesgos durante estas actividades.
 
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: "Estado Actual del Mundo"
-description: A guide in my new Starlight docs site.
+title: Estado Actual del Mundo
+description: Descripción del estado actual del mundo post-apocalíptico y los desafíos que enfrentan los supervivientes.
 ---
 
-El mundo ha cambiado drásticamente desde el colapso. Lo que una vez fue una sociedad moderna y estructurada ha dado paso a una tierra hostil, donde la supervivencia es la única prioridad. La humanidad ya no es la especie dominante, y aquellos que aún resisten deben luchar contra la escasez, los infectados y las facciones hostiles que han surgido en medio del caos.
+El colapso ha transformado el mundo en un lugar hostil y peligroso. Lo que una vez fue una sociedad moderna y estructurada ha dado paso a una tierra donde la supervivencia es la única prioridad. La humanidad ya no es la especie dominante, y aquellos que aún resisten deben luchar contra la escasez, los infectados y las facciones hostiles que han surgido en medio del caos.
 
 ---
 

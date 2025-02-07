@@ -1,9 +1,9 @@
 ---
 title: Comerciante Nómada
-description: A guide in my new Starlight docs site.
+description: Guía sobre los comerciantes nómadas y su rol en el intercambio de bienes en un mundo devastado.
 ---
 
-En un mundo devastado, donde la economía tradicional ha colapsado y la supervivencia es la prioridad, los **comerciantes nómadas** se han convertido en piezas clave del intercambio de bienes. Se trata de individuos o pequeños grupos que viajan constantemente por el territorio, ofreciendo suministros esenciales a cambio de recursos valiosos.
+Los comerciantes nómadas son figuras clave en el intercambio de bienes en un mundo devastado. Viajan por el territorio ofreciendo suministros esenciales a cambio de recursos valiosos, y su presencia puede ser tanto una bendición como una amenaza.
 
 ---
 

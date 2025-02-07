@@ -1,9 +1,9 @@
 ---
-title: "Zonas de Peligro"
-description: A guide in my new Starlight docs site.
+title: Zonas de Peligro
+description: Identifica y sobrevive en las áreas más peligrosas del mundo post-apocalíptico.
 ---
 
-El mundo post-apocalíptico está plagado de áreas de alto riesgo, donde la muerte puede llegar en cuestión de minutos si no se toman las precauciones adecuadas. Las zonas de peligro se dividen en **áreas radioactivas** y **zonas de bombardeo**, dos de los mayores obstáculos para la supervivencia.
+Sobrevivir en el condado significa enfrentarse a áreas de alto riesgo, donde la muerte puede llegar en cuestión de minutos si no se toman las precauciones adecuadas. Las zonas de peligro se dividen en **áreas radioactivas** y **zonas de bombardeo**, dos de los mayores obstáculos para la supervivencia.
 
 ---
 

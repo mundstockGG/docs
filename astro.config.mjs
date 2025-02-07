@@ -77,7 +77,9 @@ export default defineConfig({
 				{
 					label: 'Crafteo & Construcción de Bases',
 					items: [
-						{ label: 'Crafteo & Construcción de Bases', slug: 'crafteo/mecanica' },
+						{ label: 'Mecánicas de Crafteo', slug: 'crafteo/mecanica' },
+						{ label: 'Crafteo & Construcción de Bases', slug: 'crafteo/bases' },
+						{ label: 'Recetas de Crafteo', slug: 'crafteo/recetas' },
 					],
 				},
 				{

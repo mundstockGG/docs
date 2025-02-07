@@ -1,9 +1,9 @@
 ---
 title: "Condiciones del Entorno"
-description: A guide in my new Starlight docs site.
+description: Aprende a sobrevivir en un entorno hostil y cambiante lleno de peligros ambientales.
 ---
 
-El colapso de la civilización no solo dejó tras de sí hordas de infectados y facciones en disputa, sino que también transformó el ambiente en una amenaza mortal. La contaminación, el uso indiscriminado de armas biológicas y los bombardeos constantes han convertido grandes áreas del mundo en zonas de peligro extremo, donde el entorno mismo se ha convertido en un enemigo silencioso.
+La caída de la civilización no solo trajo consigo hordas de infectados y facciones en conflicto, sino que también convirtió el entorno en una amenaza constante. La contaminación, el uso de armas biológicas y los bombardeos han transformado vastas áreas en zonas peligrosas, donde el ambiente mismo es un enemigo silencioso.
 
 ---
 

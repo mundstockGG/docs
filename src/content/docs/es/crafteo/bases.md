@@ -1,11 +1,11 @@
 ---
 title: Construcción de Refugios
-description: A guide in my new Starlight docs site.
+description: Guía sobre cómo construir y mantener refugios seguros en un mundo post-apocalíptico.
 ---
 
-En un mundo post-apocalíptico donde la seguridad es un lujo y los peligros acechan en cada esquina, **la construcción de refugios es una necesidad vital para la supervivencia.** Los refugios permiten a los jugadores protegerse de los zombis, las inclemencias del tiempo, las lluvias ácidas, los saqueadores y otras amenazas.
+La construcción de refugios se convierte en una prioridad para la supervivencia. Los refugios permiten a los jugadores crear un espacio seguro para descansar, almacenar recursos y planificar sus próximas acciones.
 
-Este sistema ofrece la posibilidad de edificar desde refugios improvisados hasta bases fortificadas, dependiendo de los materiales disponibles y la habilidad del jugador en la construcción.
+Este sistema permite la construcción de una variedad de refugios, desde simples escondites hasta complejas bases fortificadas, dependiendo de los materiales disponibles y las habilidades de construcción del jugador.
 
 ---
 

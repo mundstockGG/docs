@@ -1,9 +1,7 @@
 ---
-title: "Explicación del Concepto del Servidor"
-description: A guide in my new Starlight docs site.
+title: Explicación del Concepto del Servidor
+description: Guía sobre el concepto del servidor de roleplay de supervivencia extrema en un mundo post-apocalíptico.
 ---
-
-## **Un Mundo Post-Apocalíptico Inmersivo**
 
 Este servidor está diseñado para ofrecer una experiencia de **roleplay de supervivencia extrema** en un mundo post-apocalíptico devastado por el colapso de la civilización. A diferencia de otros servidores de rol, aquí la supervivencia es un desafío constante, donde cada decisión cuenta y el entorno mismo puede ser el mayor enemigo. Los jugadores deberán enfrentarse a infectados, facciones hostiles, condiciones climáticas extremas y la escasez de recursos para poder mantenerse con vida.
 

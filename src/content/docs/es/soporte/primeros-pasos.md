@@ -1,9 +1,9 @@
 ---
-title: "Guía de Primeros Pasos"
-description: A guide in my new Starlight docs site.
+title: Guía de Primeros Pasos
+description: Guía para comenzar tu aventura en el servidor de roleplay post-apocalíptico.
 ---
 
-Bienvenido al **Ventura Roleplay Z**. Para garantizar una experiencia de juego inmersiva y realista, hemos preparado esta guía que te ayudará a comenzar tu aventura de la mejor manera.
+Bienvenido al **Ventura Roleplay Z**. Para garantizar una experiencia de juego inmersiva y realista, hemos preparado esta guía que te ayudará a comenzar tu aventura de la mejor manera posible. Sigue estos pasos para integrarte rápidamente en el mundo post-apocalíptico del servidor.
 
 ---
 

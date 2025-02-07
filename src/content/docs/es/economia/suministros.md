@@ -1,9 +1,9 @@
 ---
 title: Obtención de Suministros y Comercio
-description: A guide in my new Starlight docs site.
+description: Guía sobre cómo obtener suministros y comerciar en un mundo post-apocalíptico.
 ---
 
-En un mundo donde la infraestructura ha colapsado y la ley del más fuerte rige la supervivencia, los suministros se han convertido en el recurso más valioso. Conseguir comida, agua, municiones y herramientas es un desafío diario que exige exploración, negociación y, en algunos casos, enfrentamientos. La obtención de suministros y el comercio se han adaptado a la realidad post-apocalíptica, donde no hay dinero tradicional y todo depende del trueque y la recolección de recursos escasos.
+La obtención de suministros y el comercio son actividades esenciales para la supervivencia. Conseguir comida, agua, municiones y herramientas requiere exploración, negociación y, en algunos casos, enfrentamientos. Sin dinero tradicional, el trueque y la recolección de recursos escasos son las nuevas normas económicas.
 
 ---
 

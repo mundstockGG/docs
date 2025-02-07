@@ -1,11 +1,9 @@
 ---
-title: "Supervivencia & Estados del Personaje "
-description: A guide in my new Starlight docs site.
+title: "Supervivencia & Estados del Personaje"
+description: Aprende a gestionar las necesidades fisiológicas y enfrentar condiciones extremas para sobrevivir.
 ---
 
-# Supervivencia & Estados del Personaje (Hambre, Sed, Enfermedades)
-
-La supervivencia en un mundo post-apocalíptico no se basa únicamente en luchar contra los infectados o facciones hostiles. Los jugadores deben enfrentar condiciones extremas, gestionar sus necesidades fisiológicas y adaptarse a un entorno implacable donde cada decisión puede marcar la diferencia entre la vida y la muerte.
+La supervivencia en el condado no se basa únicamente en luchar contra los infectados o facciones hostiles. Los jugadores deben enfrentar condiciones extremas, gestionar sus necesidades fisiológicas y adaptarse a un entorno implacable donde cada decisión puede marcar la diferencia entre la vida y la muerte.
 
 ---
 

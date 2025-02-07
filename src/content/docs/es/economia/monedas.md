@@ -1,9 +1,9 @@
 ---
 title: Sistema de Monedas
-description: A guide in my new Starlight docs site.
+description: Guía sobre las nuevas formas de economía y sistemas de monedas en un mundo post-apocalíptico.
 ---
 
-En el mundo post-apocalíptico, el dinero en efectivo ha perdido todo su valor. Los supervivientes han tenido que adaptarse a un nuevo sistema económico basado en el **trueque**, las **monedas de intercambio** y los **recursos esenciales**. La economía del servidor está diseñada para fomentar la interacción entre jugadores, la exploración y la toma de decisiones estratégicas sobre la gestión de bienes y suministros.
+Con el colapso del dinero en efectivo, los supervivientes han tenido que crear nuevas formas de economía. Este documento detalla cómo el trueque, las fichas de intercambio y otros sistemas monetarios alternativos han surgido para facilitar el comercio y la supervivencia.
 
 ---
 
@@ -57,5 +57,5 @@ Para sobrevivir en este entorno hostil, cada jugador debe elegir cómo administr
 - **Saqueador o mercenario:** Conseguir suministros robando a otros jugadores o realizando trabajos de alto riesgo.
 - **Fabricante y constructor:** Crear objetos útiles y comerciarlos con otros supervivientes.
 
-El equilibrio entre oferta y demanda será clave para el desarrollo de la economía. **El mundo ha cambiado, y solo aquellos que sepan adaptarse lograrán prosperar.**
+El equilibrio entre oferta y demanda será clave para el desarrollo de la economía. **El mundo ha cambiado, y solo aquellos que sepan adaptarse lograrán prosperar.
 

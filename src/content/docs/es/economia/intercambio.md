@@ -1,9 +1,9 @@
 ---
 title: Intercambio y Comercio
-description: A guide in my new Starlight docs site.
+description: Guía sobre sistemas de trueque, fichas de intercambio y mercados en un mundo post-apocalíptico.
 ---
 
-En un mundo post-apocalíptico donde la economía tradicional ha colapsado, el **intercambio de bienes** se ha convertido en la única forma de obtener recursos esenciales. La falta de una moneda estable ha llevado a la adopción de sistemas de trueque, mercados controlados y redes clandestinas de comercio. Saber cómo y con quién comerciar puede significar la diferencia entre la vida y la muerte.
+La economía tradicional ha desaparecido, y el intercambio de bienes se ha vuelto crucial para la supervivencia. Este documento explora cómo los supervivientes utilizan el trueque, las fichas de intercambio y los mercados clandestinos para obtener recursos esenciales.
 
 ---
 

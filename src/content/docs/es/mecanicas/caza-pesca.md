@@ -1,9 +1,9 @@
 ---
-title: "Caza & Pesca"
-description: A guide in my new Starlight docs site.
+title: Caza & Pesca
+description: Domina las técnicas de caza y pesca para asegurar tu supervivencia en un mundo devastado.
 ---
 
-En un mundo donde los supermercados son ruinas y los cultivos han sido abandonados, la caza y la pesca se han convertido en fuentes primordiales de alimento para los supervivientes. Sin embargo, estos métodos no están exentos de peligros, ya que la fauna también ha sido afectada por la infección y la contaminación ambiental.
+La caza y la pesca son habilidades esenciales para cualquier superviviente. Con los recursos naturales limitados y la fauna cambiada drásticamente, aprender a obtener alimento de manera segura y eficiente es crucial. Los supervivientes deben enfrentarse a nuevos peligros y adaptarse a un entorno hostil para asegurar su sustento.
 
 ---
 

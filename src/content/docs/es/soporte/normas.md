@@ -1,9 +1,9 @@
 ---
-title: "Normas para Nuevos Jugadores"
-description: A guide in my new Starlight docs site.
+title: Normas para Nuevos Jugadores
+description: Normas esenciales para garantizar una experiencia de juego justa y respetuosa en el servidor.
 ---
 
-Este servidor ofrece una experiencia de rol inmersiva en un mundo post-apocalíptico. Para garantizar la mejor experiencia de juego para todos los participantes, se han establecido las siguientes normas que debes conocer y respetar desde tu primer día.
+Para ofrecer una experiencia de rol inmersiva en un mundo post-apocalíptico, hemos establecido una serie de normas que todos los jugadores deben conocer y respetar desde su primer día en el servidor. Estas reglas aseguran un entorno de juego justo y respetuoso para todos los participantes.
 
 ---
 

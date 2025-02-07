@@ -1,6 +1,6 @@
 ---
-title: "Contacto con Administradores y Moderadores"
-description: A guide in my new Starlight docs site.
+title: Contacto con Administradores y Moderadores
+description: Guía para contactar al equipo de Administración y Moderación del servidor para resolver conflictos y dudas.
 ---
 
 El equipo de **Administración y Moderación** del servidor está disponible para ayudar en la gestión de conflictos, resolver dudas y garantizar que la experiencia de juego sea justa para todos los jugadores. A continuación, se explica cómo y cuándo contactar con ellos.

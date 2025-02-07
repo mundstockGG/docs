@@ -1,6 +1,6 @@
 ---
-title: "Historia del Brote"
-description: A guide in my new Starlight docs site.
+title: Historia del Brote
+description: Detalle de cómo comenzó el brote y los eventos que llevaron al apocalipsis.
 ---
 
 El apocalipsis no ocurrió de un día para otro. Fue un proceso gradual donde la corrupción, la negligencia y la desesperación llevaron al colapso total de la sociedad. Lo que comenzó como un proyecto clandestino de bioingeniería terminó convirtiéndose en la mayor catástrofe de la humanidad.
