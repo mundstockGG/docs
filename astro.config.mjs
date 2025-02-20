@@ -2,9 +2,7 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
-// https://astro.build/config
 export default defineConfig({
-	// Added redirects to always redirect "/" to "/es"
 	redirects: {
 		'/': '/es'
 	},
@@ -12,11 +10,9 @@ export default defineConfig({
 		starlight({
 			defaultLocale: 'es',
 			locales: {
-				// English docs in `src/content/docs/en/`
 				en: {
 					label: 'English',
 				},
-				// Spanish docs in `src/content/docs/es/`
 				es: {
 					label: 'Español',
 				}
