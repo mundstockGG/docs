@@ -21,7 +21,7 @@ export default defineConfig({
 					label: 'Español',
 				}
 			},
-			title: 'My Docs',
+			title: 'Ventura',
 			social: {
 				github: 'https://github.com/withastro/starlight',
 			},
