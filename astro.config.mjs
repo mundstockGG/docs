@@ -7,9 +7,6 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			defaultLocale: 'es',
-			redirects: {
-			    '/': '/es',
-			  },
 			locales: {
 				// English docs in `src/content/docs/en/`
 				en: {
