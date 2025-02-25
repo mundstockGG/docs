@@ -28,7 +28,7 @@ Los rumores sugieren que:
 
 ---
 
-## **El Verdadero Propósito de los Bombardeos**
+### **El Verdadero Propósito de los Bombardeos**
 
 Desde la caída del gobierno, la **Fuerza Aérea de los EE. UU.** ha realizado **bombardeos selectivos** sobre ciertas áreas del territorio devastado. Oficialmente, estos ataques se justifican como intentos de eliminar grandes concentraciones de infectados. Sin embargo, fuentes clandestinas sugieren que estos bombardeos **no son para destruir zombis**, sino para **borrar pruebas** de los experimentos militares y eliminar posibles testigos.
 
