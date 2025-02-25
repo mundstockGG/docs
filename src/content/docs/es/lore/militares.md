@@ -7,7 +7,7 @@ La caída del mundo no solo estuvo marcada por el brote del **Necrostrain Z**, s
 
 ---
 
-## **El Incidente del Mar Álamo: La Llegada de lo Desconocido**
+### **El Incidente del Mar Álamo: La Llegada de lo Desconocido**
 
 El 2020, mucho antes del colapso global, un objeto volador no identificado se estrelló en el **Mar Álamo**. La recuperación de los restos fue encabezada en secreto por un grupo de élite del ejército de los EE. UU., quienes transportaron los fragmentos y lo que parecían **seres biológicos aún con signos de vida** hacia una base subterránea altamente clasificada.
 
@@ -15,7 +15,7 @@ Mientras el mundo ignoraba este evento, en el más absoluto secretismo se llevar
 
 ---
 
-## **Proyecto Omega: El Experimento Definitivo**
+### **Proyecto Omega: El Experimento Definitivo**
 
 Con el colapso de la sociedad, el gobierno dejó de ser un ente funcional, pero los restos de las fuerzas militares **nunca abandonaron sus verdaderos objetivos**. En lo profundo de una instalación subterránea ubicada en una zona altamente clasificada, conocidos como los laboratorios del **Proyecto Omega**, un grupo de científicos y militares ha continuado con experimentos en secreto.
 
