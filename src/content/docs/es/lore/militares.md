@@ -1,5 +1,5 @@
 ---
-title: Humane Labs & Merryweather
+title: El Secreto de las Fuerzas Militares
 description: Detalle de las actividades militares y experimentos secretos relacionados con el brote.
 ---
 
@@ -11,7 +11,7 @@ La caída del mundo no solo estuvo marcada por el brote del **Necrostrain Z**, s
 
 El 2020, mucho antes del colapso global, un objeto volador no identificado se estrelló en el **Mar Álamo**. La recuperación de los restos fue encabezada en secreto por un grupo de élite del ejército de los EE. UU., quienes transportaron los fragmentos y lo que parecían **seres biológicos aún con signos de vida** hacia una base subterránea altamente clasificada.
 
-Mientras el mundo ignoraba este evento, en el más absoluto secretismo se llevaron a cabo estudios en las instalaciones militares de **Fort Zancudo**. Investigaciones filtradas indican que el gobierno, en colaboración con **Merryweather Security**, estaba obsesionado con extraer **tecnología y biomaterial de los ocupantes de la nave**. Se cree que estos experimentos fueron el catalizador de una nueva fase en la evolución biotecnológica: **la fusión entre ADN alienígena y el virus Necrostrain Z**.
+Mientras el mundo ignoraba este evento, en el más absoluto secretismo se llevaron a cabo estudios en las instalaciones militares de **Fuerte Zancudo**. Investigaciones filtradas indican que el gobierno, en colaboración con **Merryweather Security**, estaba obsesionado con extraer **tecnología y biomaterial de los ocupantes de la nave**. Se cree que estos experimentos fueron el catalizador de una nueva fase en la evolución biotecnológica: **la fusión entre ADN alienígena y el virus Necrostrain Z**.
 
 ---
 
